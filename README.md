@@ -3,7 +3,7 @@
 
 # Contributors
 
-## Soufiane KARROUMI & Omar LAHKIM
+## Omar LAHKIM & Soufiane KARROUMI
 
 # Table of Contents
 
