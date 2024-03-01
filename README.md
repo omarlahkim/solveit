@@ -1,10 +1,6 @@
 #
 # SOLVEIT
 
-# Contributors
-
-## Omar LAHKIM & Soufiane KARROUMI
-
 # Table of Contents
 
 **[1 - Programming Language and Version ](#_Toc56806974)**
